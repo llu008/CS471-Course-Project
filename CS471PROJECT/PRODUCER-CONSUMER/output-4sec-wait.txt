@@ -1,0 +1,13 @@
+Sleep time (in seconds)     Number of producers     Number of consumers     Turnaround time (in milliseconds)
+4                           1                       1                       4003.09
+4                           4                       1                       4004.53
+4                           16                      1                       4006.25
+4                           1                       2                       4004.82
+4                           4                       2                       4005
+4                           16                      2                       4002.18
+4                           1                       4                       4003.33
+4                           4                       4                       4004.91
+4                           16                      4                       4005.11
+4                           1                       16                      4005.89
+4                           4                       16                      4001.36
+4                           16                      16                      4004.36
